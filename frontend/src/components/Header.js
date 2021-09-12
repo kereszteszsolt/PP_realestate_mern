@@ -27,11 +27,6 @@ const Header = () => {
           <Navbar.Collapse id='basic-navbar-nav'>
             <Route render={({ history }) => <SearchBox history={history} />} />
             <Nav className='ml-auto'>
-              {/*<LinkContainer to='/cart'>*/}
-              {/*  <Nav.Link>*/}
-              {/*    <i className='fas fa-shopping-cart'></i> Cart*/}
-              {/*  </Nav.Link>*/}
-              {/*</LinkContainer>*/}
               {userInfo ? (
                 <NavDropdown title={userInfo.name} id='username'>
                   <LinkContainer to='/profile'>
@@ -56,9 +51,6 @@ const Header = () => {
                   <LinkContainer to='/admin/propertylist'>
                     <NavDropdown.Item>All Properties</NavDropdown.Item>
                   </LinkContainer>
-                  {/*<LinkContainer to='/admin/orderlist'>*/}
-                  {/*  <NavDropdown.Item>Orders</NavDropdown.Item>*/}
-                  {/*</LinkContainer>*/}
                 </NavDropdown>
               )}
             </Nav>
