@@ -11,7 +11,7 @@ Features:
     * Edit user (by admin), change role
     * Create, Edit, Delete properties
     * Search after properties
-    * Display properties, and property detials
+    * Display properties, and property details
 
 ![Welcome page](/screenshots/screenshot_welcomepage_2.png)
 
