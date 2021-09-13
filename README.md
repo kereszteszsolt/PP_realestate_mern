@@ -1,11 +1,16 @@
 # PP_realestate_mern
 
-![GitHub Logo](/screenshots/screenshot_admin_properties.png)
+![Welcome page](/screenshots/screenshot_welcome_page.png)
 
-![GitHub Logo](/screenshots/screenshot_admin_users.png)
+![Welcome page](/screenshots/screenshot_welcomepage_2.png)
 
-![GitHub Logo](/screenshots/screenshot_property_details.png)
+![Property details](/screenshots/screenshot_property_details.png)
 
-![GitHub Logo](/screenshots/screenshot_welcome_page.png)
+![Admin screen: user management](/screenshots/screenshot_admin_users.png)
 
-![GitHub Logo](/screenshots/screenshot_welcomepage_2.png)
+![Admin screen: property management](/screenshots/screenshot_admin_properties.png)
+
+
+
+
+
